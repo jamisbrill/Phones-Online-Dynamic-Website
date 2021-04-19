@@ -4,5 +4,5 @@ Mock-Up Phone Sale Website
 - Purchase page
 - Admin control panel 
 - Database management tool 
-- Won best dynamic website at university 2nd year 
+- Won best dynamic website at university (MMU)  2nd year 
 - 
